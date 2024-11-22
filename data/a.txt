@@ -1,0 +1,7 @@
+trial_data_mapping.csv
+trial_fact_checks.csv
+trial_posts.csv
+
+fact_checks.csv
+posts.csv
+fact_check_post_mapping.csv
